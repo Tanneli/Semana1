@@ -1,0 +1,56 @@
+html, body{
+    margin: 0;
+}
+
+section{
+   background: black;
+   color: white;
+   font-family: helvetica;
+   background-image: url(https://www.reliancedigital.in/wp-content/uploads/2019/02/netflix_movies_cover.jpg);
+   background-size: cover; 
+   padding-bottom: 50px;
+}
+
+.navbar img{
+    width: 15%;
+    margin-left: 20px;
+}
+
+.navbar button{
+    float: right;
+    background: red;
+    color: white;
+    border:none;
+    margin-top: 15px;
+    margin-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 2px;
+    cursor: pointer;
+}
+
+.cover{
+    text-align: center;
+}
+
+.cover h2{
+    font-size: 30px;
+    
+}
+
+.cover button{
+    background: red;
+    color: white;
+    border:none;
+    margin-top: 15px;
+    margin-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 2px;
+    font-size: 15px;
+    cursor: pointer;
+}
